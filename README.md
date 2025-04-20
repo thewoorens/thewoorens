@@ -1,4 +1,59 @@
 ###
+<pre>
+<code>{
+  "name": "Eren",
+  "title": "Full Stack Developer & Software Engineering Student",
+  "focus": "ERP Systems with Node.js",
+  "technologies": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "PHP",
+    ],
+    "frontend": [
+      "Vue.js",
+      "React",
+      "Svelte",
+      "Next.js"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "Laravel"
+    ],
+    "databases": [
+      "MongoDB",
+      "MySQL",
+      "Firebase"
+    ],
+    "mobile": [
+      "React Native",
+      "Android (Java)"
+    ],
+    "tools": [
+      "Selenium",
+      "Socket.io",
+      "Electron.js",
+      "CustomTkinter",
+      "Arduino"
+    ],
+    "devops": [
+      "Docker",
+      "AWS",
+      "Linux"
+    ]
+  },
+  "interests": [
+    "Terminal-based System Management",
+    "Open Source Projects",
+    "Custom ERP Applications",
+  ],
+  "status": "Always learning and building 🔥"
+}
+</code>
+</pre>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
